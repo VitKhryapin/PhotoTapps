@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PhotoTapps
 //
-//  Created by Кот on 08.11.2021.
+//  Created by Vitaly Khryapin on 08.11.2021.
 //
 
 import UIKit
